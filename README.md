@@ -3,6 +3,7 @@ EasyExcel
 [![Build Status](https://github.com/alibaba/easyexcel/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/alibaba/easyexcel/actions/workflows/ci.yml?query=branch%3Amaster)
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/com.alibaba/easyexcel/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba/easyexcel)
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricleFu%2Feasyexcel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricleFu%2Feasyexcel?ref=badge_shield)
 
 [QQ1群(已满): 662022184](https://jq.qq.com/?_wv=1027&k=1T21jJxh)  
 [QQ2群(已满): 1097936804](https://jq.qq.com/?_wv=1027&k=j5zEy6Xl)  
@@ -140,3 +141,6 @@ DEMO代码地址：[https://github.com/alibaba/easyexcel/blob/master/src/test/ja
 ```
 ### 联系我们
 有问题阿里同事可以通过钉钉找到我，阿里外同学可以通过git留言。其他技术非技术相关的也欢迎一起探讨。
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricleFu%2Feasyexcel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricleFu%2Feasyexcel?ref=badge_large)
